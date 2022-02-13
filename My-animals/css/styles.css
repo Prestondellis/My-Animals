@@ -1,0 +1,24 @@
+
+#navbar {
+    Height: 100px;
+    width: 100%;
+    background-color:#405d27;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    border-color: olivedrab;
+    align-content: center;
+}
+.nav-buttons {
+    height: 30px;
+    width: 75px;
+    border-style: none;
+    background-color: #c1946a;
+    color: #3e4444;
+    padding: 20px;
+   
+}
+.nav-buttons:hover {
+    background-color: #82b74b;
+    color: white;
+}
